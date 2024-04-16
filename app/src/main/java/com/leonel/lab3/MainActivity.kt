@@ -10,6 +10,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+
+
+
+
         val r = findViewById<RecyclerView>(R.id.recycler1)
         val personasList = mutableListOf<Persona>(
 

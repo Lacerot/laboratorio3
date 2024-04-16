@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506223346462",
+    "project_id": "laboratorio-dis413",
+    "storage_bucket": "laboratorio-dis413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506223346462:android:7703f2b7e843b1324bff0f",
+        "android_client_info": {
+          "package_name": "com.leonel.lab3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-inPt58GFw61dKiJw-GIFumBN-wRo1_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
